@@ -3,6 +3,4 @@ Code and datasets used in the article
 
 Faster R-CNN ResNet-101 was trained accordingly to TensorFlow 2.0. The pipeline file is provided. Hyperparemeters are specified.
 
-To download the training dataset, please follow the next link: https://drive.google.com/drive/folders/1P03fwxAQfFCO3mqbYYC4P8i_Q9JQ_bhN?usp=sharing
-
-This dataset also can be found on the Australian Antarctic Data Centre under the title "Training dataset for object detection - Penguins from UAV".
+The training dataset can be found provided with the paper and also in the Australian Antarctic Data Centre under the title "Training dataset for object detection - Penguins from UAV".
